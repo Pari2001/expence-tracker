@@ -11,7 +11,7 @@ const Error = () => {
                 </div>
                 <div className='d-flex justify-content-evenly my-4'>
                     <Link exact to="/" className="button mx-0 ui bg-gate text-amigos">
-                        Go Back
+                        Go Back To Home
                     </Link>
                 </div>
             </div>
