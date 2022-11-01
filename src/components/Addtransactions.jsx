@@ -307,7 +307,7 @@ const Addtransactions = () => {
                                     value={amount} type="text" className="index-form form-control" />
                             </div>
 
-                            <div className="">
+                            <div className="flexy">
                                 {
                                     (category !== "Dropdown Button" && reason !== "" && amount !== "") ?
                                         <button
