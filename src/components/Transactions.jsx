@@ -143,14 +143,14 @@ const Transactions = () => {
                                 <div className="transaction-ui mouse400 d-flex justify-content-center">
                                     <div className="full-width">
                                         <div className="category-class d-flex 
-                                        justify-content-end py-1 px-2">
-                                        {/*
+                                        justify-content-between py-1 px-2">
+                                        {
                                           <i
                                           onClick={() => { 
                                             deleteTransaction(index); 
                                           }}
                                           className="trash trash-button yellow ms-1 circular inverted alternate outline icon"></i>
-                                        */}
+                                        }
                                           
                                           
                                             <div className="category-style flexy py-1 px-2">
